@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# 빌드 결과·중간 산출물
+build/
+build_stage/
+dist/
+release/
+*.spec
+jre/
+hf_models/
+hf_models_clean/
+
+# 실행 흔적
+logs/
+autosave/
+
+# 빌드용 바이너리 (용량이 커서 저장소에 넣지 않는다 — vendor/README.md)
+vendor/tesseract/
+
+# 백업·임시
+*.bak
+*.bak_*
+*.orig
+*.tmp

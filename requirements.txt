@@ -1,0 +1,32 @@
+# PdfEditor 3.5 — 빌드에 쓴 버전 (Python 3.11)
+
+PyMuPDF==1.27.2
+PySide6==6.10.2
+numpy==2.4.3
+opencv-contrib-python==4.10.0.84
+paddleocr==3.4.0
+paddlepaddle==3.3.0
+paddlex==3.4.2
+pillow==12.3.0
+pytesseract==0.3.13
+pyclipper==1.4.0
+requests==2.34.2
+shapely==2.1.2
+soundfile==0.13.1
+tqdm==4.67.3
+magika==1.0.3
+pyhanko==0.36.2
+markdown-it-py==4.0.0
+pywin32==312
+keyboard==0.13.5
+pdfminer.six==20260107
+pdfplumber==0.11.10
+python-docx==1.2.0
+opendataloader-pdf==2.5.2
+kiwipiepy==0.23.2
+psutil==7.2.2
+python-bidi==0.6.11
+
+# 빌드·테스트용
+pyinstaller==6.22.2
+pytest==9.1.1
